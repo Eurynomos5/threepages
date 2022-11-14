@@ -7,5 +7,5 @@ body {
 }
 
 .images {
-size: 300px;
+border-image-width: 300px;
 }
