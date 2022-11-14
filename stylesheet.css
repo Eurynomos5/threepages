@@ -9,5 +9,5 @@ body {
 img {
 width: 350px;
 Height: 350px;
-float: none;
+align-content: center;
 }
