@@ -5,9 +5,26 @@ body {
     margin-right: auto;
     text-align: center;
     align-items: center;
-}
+    color: honeydew;
+    }
 
 img {
 width: 350px;
 Height: 350px;
+}
+
+.purple {
+    background-color: blueviolet;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+}
+
+.pink {
+    background-image: linear-gradient(to bottom right,magenta, cyan, #FF6700);
+}
+
+.links {
+    color: honeydew;
 }
